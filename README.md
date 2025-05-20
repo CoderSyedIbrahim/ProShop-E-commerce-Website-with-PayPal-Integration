@@ -1,0 +1,2 @@
+# ProShop-E-commerce-Website-with-PayPal-Integration
+I created ProShop, a full-featured e-commerce website where users can browse products, add them to cart, and securely complete payments using PayPal integration. The site supports user authentication, order tracking, and an admin dashboard. This project helped me learn full-stack development and real-world payment gateway integration using PayPal.
